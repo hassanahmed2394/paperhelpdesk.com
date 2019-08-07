@@ -397,11 +397,11 @@ include($header);
                       <div class="guide-tittle"><h4>Read Contemporary Blogs</h4></div>
                         <div class="gude-links">
                             <ul>
-                                <li><a href="https://penmypaper.com/blog/100-ideas-for-your-research-paper-topics/">100 Ideas for Your Research Paper Topics of 2019</a></li>
-                                <li><a href="https://penmypaper.com/blog/how-to-write-a-research-paper/">How to Write a Winning Research Paper Worth of A+ Grades</a></li>
-                                <li><a href="https://penmypaper.com/blog/essay-topics/">65 Brilliant College Essay Topics That Will Never Be Obsolete</a></li>
-                                <li><a href="https://penmypaper.com/blog/how-to-write-a-flawless-research-methodology/">How to write a flawless Research Methodology</a></li>
-                                <li><a href="https://penmypaper.com/blog/research-paper-outline-example/">Research Paper Outline Example: Create Your Own Today!</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/100-ideas-for-your-research-paper-topics/">100 Ideas for Your Research Paper Topics of 2019</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/how-to-write-a-research-paper/">How to Write a Winning Research Paper Worth of A+ Grades</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/essay-topics/">65 Brilliant College Essay Topics That Will Never Be Obsolete</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/how-to-write-a-flawless-research-methodology/">How to write a flawless Research Methodology</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/research-paper-outline-example/">Research Paper Outline Example: Create Your Own Today!</a></li>
                             </ul>
                         </div>
                     </div>
@@ -444,11 +444,11 @@ include($header);
                       <div class="guide-tittle"><h4>Read Contemporary Blogs</h4></div>
                         <div class="gude-links">
                             <ul>
-                                <li><a href="https://penmypaper.com/blog/100-ideas-for-your-research-paper-topics/">100 Ideas for Your Research Paper Topics of 2019</a></li>
-                                <li><a href="https://penmypaper.com/blog/how-to-write-a-research-paper/">How to Write a Winning Research Paper Worth of A+ Grades</a></li>
-                                <li><a href="https://penmypaper.com/blog/essay-topics/">65 Brilliant College Essay Topics That Will Never Be Obsolete</a></li>
-                                <li><a href="https://penmypaper.com/blog/how-to-write-a-flawless-research-methodology/">How to write a flawless Research Methodology</a></li>
-                                <li><a href="https://penmypaper.com/blog/research-paper-outline-example/">Research Paper Outline Example: Create Your Own Today!</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/100-ideas-for-your-research-paper-topics/">100 Ideas for Your Research Paper Topics of 2019</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/how-to-write-a-research-paper/">How to Write a Winning Research Paper Worth of A+ Grades</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/essay-topics/">65 Brilliant College Essay Topics That Will Never Be Obsolete</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/how-to-write-a-flawless-research-methodology/">How to write a flawless Research Methodology</a></li>
+                                <li><a href="https://Paperhelpdesk.com/blog/research-paper-outline-example/">Research Paper Outline Example: Create Your Own Today!</a></li>
                             </ul>
                         </div>
                     </div>
@@ -660,7 +660,7 @@ include($header);
             </div>
       <div class="item">
               <div class="feedback-wrap">
-                    <p>Being a part-time worker, it was difficult to manage my paper writing and job simultaneously. I heard that penmypaper.com offers writing service and hired them to write my thesis. Initially, I was scared about the security of my identity and the quality of the composition. Eventually, it eased off as they have written and delivered the finest custom made paper. </p>
+                    <p>Being a part-time worker, it was difficult to manage my paper writing and job simultaneously. I heard that Paperhelpdesk.com offers writing service and hired them to write my thesis. Initially, I was scared about the security of my identity and the quality of the composition. Eventually, it eased off as they have written and delivered the finest custom made paper. </p>
                     <small> </small>
                 </div>
                 <div class="client-info">

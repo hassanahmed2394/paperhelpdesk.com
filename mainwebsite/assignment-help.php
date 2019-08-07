@@ -577,7 +577,7 @@ include($header);
             </div>
             <div class="item">
                 <div class="feedback-wrap">
-                    <p>In the first semester of my graduation, I was dreaded with the thought of who can help me in writing essay or articles. Getting the web address of penmypaper.com, from a close friend, got me a professional to write essay. They always write my term essay within deadline maintaining quality. Highly recommended!</p>
+                    <p>In the first semester of my graduation, I was dreaded with the thought of who can help me in writing essay or articles. Getting the web address of Paperhelpdesk.com, from a close friend, got me a professional to write essay. They always write my term essay within deadline maintaining quality. Highly recommended!</p>
                     <small> </small>
                 </div>
                 <div class="client-info">
@@ -607,7 +607,7 @@ include($header);
             </div>
             <div class="item">
                 <div class="feedback-wrap">
-                    <p>I cannot write essay and my previous year essay obtained the lowest marks due to the plagiarism issue. But this time things changed completely. On seeking writing assistance from PenMypaper.com, I scored an A+ in my essay. The team of writers and editors write excellent essays entertain custom opinions to a great extent. Very happy!</p>
+                    <p>I cannot write essay and my previous year essay obtained the lowest marks due to the plagiarism issue. But this time things changed completely. On seeking writing assistance from Paperhelpdesk.com, I scored an A+ in my essay. The team of writers and editors write excellent essays entertain custom opinions to a great extent. Very happy!</p>
                     <small> </small>
                 </div>
                 <div class="client-info">

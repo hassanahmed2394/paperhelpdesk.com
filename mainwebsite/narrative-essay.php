@@ -54,7 +54,7 @@ include($header);
         <p>You  have written all that you had to about the topic. There is however one decisive  step that you should take before sharing it with the wide world. Make at least  three persons read it.</p>
          <p>The wealth of detail that we possess in our daily lives is remarkable. We truly  get a sense of that only when we interact with others. Words and images that  eluded us while writing will be gained. A fresh perspective is lent by the  presence of others. It could be anyone-your uncle, your favorite school  teacher, your new friend. The more diverse the ages and life experiences of  these persons, the better will be writing. So be more open minded and flexible  with whom you interact. You never know who might help you write a great essay.</p>
       <p><strong>Essay writing online has never been  better</strong></p>
-      <p>A good professional writer is hard to find. It might be so that input you  need for your important college essay is elusive. No good student should be  made to suffer for a lack of options. To ensure that you get as many choices as  possible for your writing assistance PenMyPaper.com is at your beck and call.</p>
+      <p>A good professional writer is hard to find. It might be so that input you  need for your important college essay is elusive. No good student should be  made to suffer for a lack of options. To ensure that you get as many choices as  possible for your writing assistance Paperhelpdesk.com is at your beck and call.</p>
         
         
         

@@ -36,8 +36,8 @@ include($header);
             </div>
             <div class="order-form-wrap">
               <h3>Contact Information</h3>
-                <p>For any queries pertaining to your new assignments, kindly click on <a href="https://penmypaper.com/freequery">Free Enquiry</a> and get it confirmed by our expert.</p>
-                <p>For any queries about an ongoing/completed order, kindly get in touch with your expert through message board by <a href="https://penmypaper.com/account/login">logging</a> into the order dashboard.</p>
+                <p>For any queries pertaining to your new assignments, kindly click on <a href="https://Paperhelpdesk.com/freequery">Free Enquiry</a> and get it confirmed by our expert.</p>
+                <p>For any queries about an ongoing/completed order, kindly get in touch with your expert through message board by <a href="https://Paperhelpdesk.com/account/login">logging</a> into the order dashboard.</p>
                 <p>For any questions related to ordering process, payments, general   terms or other, please feel free to connect to us on Live Chat. Our   support professionals are ready to assist you round the clock.</p>
                 <p>For any suggestion/complain, you can mail us at <a href="mailto:feedback@papaperhelpdesk.com">feedback@papaperhelpdesk.com</a></p>
                 <p>For any other assistance, you can reach us on <a href="mailto:support@papaperhelpdesk.com">support@papaperhelpdesk.com</a></p>

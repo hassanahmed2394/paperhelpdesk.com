@@ -59,7 +59,7 @@ include($header);
                 <p><strong>Spelling  and Grammar errors to be ironed out</strong></p>
                 <p>  These might seem like minor points of omission. After all the trouble you've  undertaken as an aspirant college student on such a reflective topic you want  some leeway. The college selection committee will be a sympathetic body. But it  would be preferable if one were not reduced to a subject of pity. You will have  to meet their needs as much as you can. Ensure that there are no grammatical or  spelling mistakes. If need be ask the English teacher whom you don't  particularly care for. In such vital stages of life, the most unexpected persons  can prove to be a positive influence for you.</p>
                  <p> <strong>Custom Essay Writing Service</strong></p>
-                  <p>If you need assistance with your  academic papers feel free to ask experts who have professional experience.  There is a pool of custom writers for academic paper writing services at  PenMyPaper.com.</p>
+                  <p>If you need assistance with your  academic papers feel free to ask experts who have professional experience.  There is a pool of custom writers for academic paper writing services at  Paperhelpdesk.com.</p>
                   <p>Here are some more essay guides that might help you!</p>
                   <p>
                     <ul class="bull">

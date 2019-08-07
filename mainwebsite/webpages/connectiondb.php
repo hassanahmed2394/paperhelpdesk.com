@@ -1,8 +1,8 @@
 <?php
 $mysql_hostname = "localhost";
-$mysql_user = "reseller_user";
+$mysql_user = "uspaperhelpdes_uspaperhelpdesk";
 $mysql_password = "Solution123+";
-$mysql_database = "reseller_web";
+$mysql_database = "uspaperhelpdes_paperhelpdesk";
 
 $con = mysqli_connect($mysql_hostname,$mysql_user,$mysql_password,$mysql_database);
 

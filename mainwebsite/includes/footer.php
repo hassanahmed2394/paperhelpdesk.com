@@ -35,7 +35,7 @@
                             <li><a href="/know-our-consultants">Know Our Consultance</a></li>
                             <li><a href="/revision-refund-policy">Revision and Refund Policy</a></li>
               <li><a href="/termsofuse">Terms Of Use</a></li>
-              <li><a rel="nofollow" href="https://www.couponchief.com/penmypaper">Penmypaper.com Coupons</a></li>
+              <li><a rel="nofollow" href="https://www.couponchief.com/penmypaper">Paperhelpdesk.com Coupons</a></li>
                         </ul>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
         </div>
     </div>
     <div class="footer-bottom">
-      <span>&copy; 2019. Penmypaper.com. All Right Reserved.</span>
+      <span>&copy; 2019. Paperhelpdesk.com. All Right Reserved.</span>
     </div>
 </footer>
 

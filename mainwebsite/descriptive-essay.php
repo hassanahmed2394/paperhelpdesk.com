@@ -59,7 +59,7 @@ include($header);
        <p><strong>How  agreeable you should be with regard to conventional points of view</strong></p>
        <p>A narrative essay is an ideal medium for laying out  the writer's take on what is happening, in a perhaps unique fashion, in his or  her life. In the process he or she will reveal what is special about it.  Subjectivity will inevitably creep in. A difference of points of view between  the writer and the readers takes place often through the narrative. The  question though is whether there can be a minor point of discordance or a major  irrevocable divergence.</p>
        <p><strong>Academic essay writing services</strong></p>
-       <p>College students have  many topics on their minds. They might not get around to writing their academic  papers because of this deluge of concepts. To ensure that they pass with flying  grades PenMyPaper.com is the perfect paper writing tool.</p>
+       <p>College students have  many topics on their minds. They might not get around to writing their academic  papers because of this deluge of concepts. To ensure that they pass with flying  grades Paperhelpdesk.com is the perfect paper writing tool.</p>
           
        <p>Here are some more essay guides that might help you!</p>
       

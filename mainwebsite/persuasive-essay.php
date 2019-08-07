@@ -58,7 +58,7 @@ include($header);
        
       <p>An active voice might seem like the de-facto approach in establishing your  point. However a passive voice applied judiciously during the essay could  garner attention. An important impression is registered by the essay evaluator-  this college student knows how to approach the world in its varied dimensions.  An occasional open ended line indicates that the essay writer has some more  thoughts on the topic which if needed can be part of another such persuasive  essay. Which educator wouldn't like to be an encouraging influence on students?</p>
       <p><strong>Academic papers can be written by  subject experts for you</strong></p>
-      <p>Trying to figure out how to translate your barely understood class notes  into acceptable academic papers for seminars and examinations?PenMyPaper.com  with its pool of varied experts from different fields will undertake your  college assignments.</p>
+      <p>Trying to figure out how to translate your barely understood class notes  into acceptable academic papers for seminars and examinations?Paperhelpdesk.com  with its pool of varied experts from different fields will undertake your  college assignments.</p>
   
         
       <p>Here are some more essay guides that might help you!</p>

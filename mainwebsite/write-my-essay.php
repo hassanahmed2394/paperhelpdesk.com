@@ -575,7 +575,7 @@ include($header);
             </div>
             <div class="item">
                 <div class="feedback-wrap">
-                    <p>My brother told me that www.penmypaper.com but initially, I was skeptical about whether to seek help. It seemed unethical to me but after going through your website and feedbacks, I was thoroughly impressed. And the best part is my notions didn’t go wrong. You guys write wonderfully! Each of the requirements was preserved. There won’t be any second thought when I will again need someone to write custom cheap essays for me. </p>
+                    <p>My brother told me that www.Paperhelpdesk.com but initially, I was skeptical about whether to seek help. It seemed unethical to me but after going through your website and feedbacks, I was thoroughly impressed. And the best part is my notions didn’t go wrong. You guys write wonderfully! Each of the requirements was preserved. There won’t be any second thought when I will again need someone to write custom cheap essays for me. </p>
                     <small> </small>
                 </div>
                 <div class="client-info">
@@ -625,7 +625,7 @@ include($header);
             </div>
             <div class="item">
                 <div class="feedback-wrap">
-                    <p>I needed academic writing service at the dead hours of the night. Tried one but it was unavailable. Next in the list was penmypaper.com. I got an immediate response from a friendly-behaved consultant over the Live Chat. He listened to all my problems and guided me through the entire ordering process. And lastly, very happy with the custom practices and the way your experts write essay. Mine was great! </p>
+                    <p>I needed academic writing service at the dead hours of the night. Tried one but it was unavailable. Next in the list was Paperhelpdesk.com. I got an immediate response from a friendly-behaved consultant over the Live Chat. He listened to all my problems and guided me through the entire ordering process. And lastly, very happy with the custom practices and the way your experts write essay. Mine was great! </p>
                     <small> </small>
                 </div>
                 <div class="client-info">
